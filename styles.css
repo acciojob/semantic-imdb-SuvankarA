@@ -1,2 +1,15 @@
+#heading {
+    background-color:rgb(255, 213, 196);
+    margin-top: 1px;
+}
+#heading p{
+    text-align: center;
+    font-family: 'La Belle Aurore';
+    color: brown;
+}
+header {
+    background-color: beige;
+    
+}
 
 /* Your CSS Code here. */
