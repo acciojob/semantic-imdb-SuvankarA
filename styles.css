@@ -1,3 +1,8 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+}
 #heading {
     background-color:rgb(255, 213, 196);
     margin-top: 1px;
